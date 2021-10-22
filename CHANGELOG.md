@@ -1,3 +1,7 @@
+## [4.0.1](https://github.com/EuronewsSDD/typed-inject-async/compare/v4.0.0...v4.0.1) (2021-10-22)
+
+
+
 # [4.0.0](https://github.com/EuronewsSDD/typed-inject-async/compare/v3.0.1...v4.0.0) (2021-10-22)
 
 
