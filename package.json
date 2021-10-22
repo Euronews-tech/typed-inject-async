@@ -1,6 +1,6 @@
 {
   "name": "@euronews/typed-inject-async",
-  "version": "3.0.1",
+  "version": "4.0.0",
   "description": "Type safe dependency injection framework for TypeScript built over \"typed-inject\"",
   "main": "dist/src/index.js",
   "scripts": {
