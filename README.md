@@ -1,4 +1,6 @@
-# This is a small fork from [typed-inject](https://github.com/nicojs/typed-inject) by _Nico Jansen_ ([@\_nicojs](https://twitter.com/_nicojs))
+# ⚠️ PLEASE DO NOT USE THIS PACKAGE ANYMORE, IT DOES NOT SCALE AND REACH TYPESCRIPT RECURSION HARD LIMIT REALLY QUICK ON REAL LIFE PROJECTS AND ALSO SLOW DOWN YOUR COMPILE TIME EXPONENTIALLY ⚠️
+
+## This is a small fork from [typed-inject](https://github.com/nicojs/typed-inject) by _Nico Jansen_ ([@\_nicojs](https://twitter.com/_nicojs))
 
 ## Added features
 
